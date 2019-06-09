@@ -207,9 +207,8 @@ def process_sphinxmix(enc_messages, params, secret):
     processed = []
     for message in enc_messages:
         decoded = decode_message(message)
-        # See https://github.com/UCL-InfoSec/sphinx/blob/master/sphinxmix/SphinxNode.py
-        # SphinxNode.sphinx_process returns (tag, routing, ((alpha, beta, gamma), delta), mac_key)
-        (tag, info, (header, delta), mac_key) = process_message(decoded, params, secret)
+        (tag, info, (header, delta), mac_key) = process_message(
+            decoded, params, secret)
         recipient, processed_message = route_message(
             info, header, delta, mac_key, params)
         processed.append((recipient, processed_message))
