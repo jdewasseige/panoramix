@@ -1,0 +1,14 @@
+setup.py
+./panoramix/__init__.py
+./panoramix/agent/__init__.py
+./panoramix/agent/agent.py
+./panoramix/agent/client.py
+./panoramix/agent/sphinxmix_agent.py
+panoramix_agent.egg-info/PKG-INFO
+panoramix_agent.egg-info/SOURCES.txt
+panoramix_agent.egg-info/dependency_links.txt
+panoramix_agent.egg-info/entry_points.txt
+panoramix_agent.egg-info/namespace_packages.txt
+panoramix_agent.egg-info/not-zip-safe
+panoramix_agent.egg-info/requires.txt
+panoramix_agent.egg-info/top_level.txt

@@ -4,7 +4,7 @@ from panoramix.common import SphinxmixClient
 from panoramix.agent import client as end_user
 from panoramix.config import cfg
 
-messages = sorted([('%02d' % i, 'user%s' % i) for i in range(100)])
+messages = sorted([('%d' % i, 'user%s' % i) for i in range(100)])
 
 
 t_start = datetime.datetime.now()
@@ -18,7 +18,6 @@ t_sent = datetime.datetime.now()
 mixnet_url = cfg.get('MIXNET_URL').rstrip('/')
 endpoint_prefix, endpoint_id = mixnet_url.rsplit('/', 1)
 out_endpoint_id = '%s_output' % endpoint_id
-
 
 def init_client():
     panoramix_client = SphinxmixClient()

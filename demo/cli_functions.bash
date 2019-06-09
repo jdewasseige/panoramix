@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 OFF=`echo "\033[39;49;22;23;24;27;2m"`
 BOLD=`echo "\033[1m"`

@@ -1,0 +1,21 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Panoramix API}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Overview}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Negotiations and Consensus}{3}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Initiate a negotiation}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Get negotiation details}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Contribute to negotiation}{4}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}List contributions to a negotiation}{5}{subsection.1.2.4}
+\contentsline {section}{\numberline {1.3}Peers}{5}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Create a Peer}{5}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Get peer info}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}List Peers}{6}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Endpoints}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Create a peer endpoint}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Update an endpoint}{7}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Get endpoint info}{8}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}List endpoints}{8}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}Messages}{8}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Send a message to inbox/processbox}{9}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}List messages}{9}{subsection.1.5.2}
+\contentsline {chapter}{\numberline {2}Indices and tables}{11}{chapter.2}

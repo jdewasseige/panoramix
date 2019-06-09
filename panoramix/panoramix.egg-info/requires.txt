@@ -1,0 +1,11 @@
+
+[gpg]
+gnupg
+
+[sphinxmix]
+petlib==0.0.40
+sphinxmix==0.0.6
+
+[zeus]
+pycrypto
+gmpy

@@ -1,0 +1,2 @@
+panoramix_django
+panoramix_service

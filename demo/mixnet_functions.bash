@@ -1,6 +1,6 @@
 source cli_functions.bash
 
-CMD="panoramix $ARGS"
+CMD="panoramix-wizard $ARGS"
 
 prepare_neg () {
     local varname="$1"

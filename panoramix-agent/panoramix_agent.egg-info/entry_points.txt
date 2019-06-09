@@ -1,0 +1,5 @@
+[console_scripts]
+panoramix-agent = panoramix.agent.agent:main
+panoramix-client = panoramix.agent.client:main
+sphinxmix-agent = panoramix.agent.sphinxmix_agent:main
+
